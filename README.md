@@ -1,1 +1,1 @@
-# countryapp
+building a web application that fetches and displays information about countries. The application fetches data from an API, displays it in a user-friendly format, and includes functionality to sort the countries by population
